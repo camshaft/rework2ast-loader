@@ -1,6 +1,6 @@
 {
   "name": "rework2ast-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "loader for rework2ast",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,8 @@
   "license": "MIT",
   "peerDependencies": {
     "rework2ast": "^0.1.0"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.6"
   }
 }
