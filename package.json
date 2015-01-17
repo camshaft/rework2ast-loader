@@ -1,0 +1,14 @@
+{
+  "name": "rework2ast-loader",
+  "version": "0.1.0",
+  "description": "loader for rework2ast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Bytheway <bytheway.cameron@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "rework2ast": "^0.1.0"
+  }
+}
